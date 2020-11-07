@@ -11,7 +11,9 @@ permet de commiter et d'ajouter un message
 ### git status
 permet de voir l'état du dépôt git
 ### git push
-place les commit présents en local sur le répertoire distant
+place les commit présents en local sur le dépôt distant (origin)
+### git pull
+récupère les commits présents sur le dépôt distant (origin)
 
 ## liens 
 https://rogerdudler.github.io/git-guide/index.fr.html
