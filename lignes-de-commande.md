@@ -22,7 +22,8 @@ exemple : `$ cd formation`
 change le répertoire pour passer d'où je suis au répertoire parent
 #### ~
 se déplace sur le répertoire de l'utilisateur
-
+### mkdir + nom d'un nouveau répertoire
+pour créer un répertoire à partir d'où on est
 
 
 ## liens
