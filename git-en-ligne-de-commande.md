@@ -14,6 +14,8 @@ permet de voir l'état du dépôt git
 place les commit présents en local sur le dépôt distant (origin)
 ### git pull
 récupère les commits présents sur le dépôt distant (origin)
+### git add + nom du fichier
+permet de prendre en compte une modification, un ajout ou une supression d'un ou des fichiers donnés pour le prochain commit
 
 ## liens 
 https://rogerdudler.github.io/git-guide/index.fr.html
