@@ -8,6 +8,8 @@ permet de cloner un dépôt git. Récuperer l'url SSH sur github
 ### commit -m
 permet de commiter et d'ajouter un message
 `$ git commit -m "mon message"`
+### git status
+permet de voir l'état du dépôt git
 
 ## liens 
 https://rogerdudler.github.io/git-guide/index.fr.html
