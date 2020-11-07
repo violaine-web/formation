@@ -10,6 +10,8 @@ permet de commiter et d'ajouter un message
 `$ git commit -m "mon message"`
 ### git status
 permet de voir l'état du dépôt git
+### git push
+place les commit présents en local sur le répertoire distant
 
 ## liens 
 https://rogerdudler.github.io/git-guide/index.fr.html
