@@ -17,7 +17,7 @@ récupère les commits présents sur le dépôt distant (origin)
 ### git add + nom du fichier
 permet de prendre en compte une modification, un ajout ou une supression d'un ou des fichiers donnés pour le prochain commit
 
-### live reload
+### bundle exec jekyll serve --livereload
 permet que la page se recharche automatiquement
 ### bundle exec jekyll serve
 permet de voir le site en local (localhost4000 par exemple)
