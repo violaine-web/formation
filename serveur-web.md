@@ -7,7 +7,7 @@ Créer un serveur web en local pour tester les pages html avant de les mettre en
 * dans un navigateur `localhost:8000`
 
 ## en distant
-Utiliser la fonctionnalité GitHub pages
+Utiliser la fonctionnalité GitHub pages dans l'onglet Settings
 
 ## pour Jekyll
 
