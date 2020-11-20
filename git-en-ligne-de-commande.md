@@ -19,6 +19,8 @@ permet de prendre en compte une modification, un ajout ou une supression d'un ou
 
 ### live reload
 permet que la page se recharche automatiquement
+### bundle exec jekyll serve
+permet de voir le site en local (localhost4000 par exemple)
 
 ## liens 
 https://rogerdudler.github.io/git-guide/index.fr.html
