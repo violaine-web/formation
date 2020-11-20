@@ -17,5 +17,8 @@ récupère les commits présents sur le dépôt distant (origin)
 ### git add + nom du fichier
 permet de prendre en compte une modification, un ajout ou une supression d'un ou des fichiers donnés pour le prochain commit
 
+### live reload
+permet que la page se recharche automatiquement
+
 ## liens 
 https://rogerdudler.github.io/git-guide/index.fr.html
