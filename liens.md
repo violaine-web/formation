@@ -3,3 +3,4 @@
 * http://ouyaah.legtux.org/appendix/markdown.html#orgaa82fe4
 * https://picturepan2.github.io/spectre/
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://www.blustemy.io/styling-inline-lists-in-css/
